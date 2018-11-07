@@ -1,6 +1,8 @@
 # laba-02
 direct :(cache_size=16) (time:11) 
+
 reverse :(cache_size=16) (time:11) 
+
 random :(cache_size=16) (time:0) 
 
 direct :(cache_size=32) (time:22) 
