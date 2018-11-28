@@ -17,7 +17,12 @@ number exp |	Buffer Size	| Direct Time |	Reverse Time |	Random Time
 №13 |	65536	| 202378	| 218432	| 9693625
 
 
+
+
+
+
 graphics | URL
 --- | ---
 direct|http://htmlpreview.github.io/?https://github.com/Lobay/cache/blob/master/direct.html
-reverse | 
+reverse | http://htmlpreview.github.io/?
+random | http://htmlpreview.github.io/?https://github.com/Lobay/cache/blob/master/random.html
