@@ -21,8 +21,7 @@ number exp |	Buffer Size	| Direct Time |	Reverse Time |	Random Time
 
 
 
-graphics | URL
---- | ---
-direct|http://htmlpreview.github.io/?https://github.com/Lobay/cache/blob/master/direct.html
-reverse | http://htmlpreview.github.io/?https://github.com/Lobay/cache/blob/master/reverse.html
-random | http://htmlpreview.github.io/?https://github.com/Lobay/cache/blob/master/random.html
+
+[direct](http://htmlpreview.github.io/?https://github.com/Lobay/cache/blob/master/direct.html)
+[reverse](http://htmlpreview.github.io/?https://github.com/Lobay/cache/blob/master/reverse.html)
+[random](http://htmlpreview.github.io/?https://github.com/Lobay/cache/blob/master/random.html)
